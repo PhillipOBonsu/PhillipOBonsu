@@ -1,16 +1,19 @@
-## Hi there 👋
+## About me
 
-<!--
-**PhillipOBonsu/PhillipOBonsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📊 Global Public Health & Data Science | 🎓 University of Virginia '26
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring data scientist passionate about leveraging analytics and AI for global healthcare solutions. Currently pursuing a B.S. in Data Science and Global Studies with a concentration in Global Public Health at UVA. My experience spans healthcare research, AI integration, and market analysis, with a strong foundation in Python, SQL, R, and data visualization.
+
+- 🔍 Researching cardio-resistance training and heart failure recovery at UVA’s Kinesiology Research Department.
+- 💡 Analyzing AI applications in legal services with Virginia Consulting Group.
+- 🌍 Exploring healthcare data systems in Ghana’s 37 Military Hospital.
+- 📢 Committed to mentorship, diversity, and outreach, serving as a Resident Advisor, Phi Delta Epsilon Fundraising Coordinator, and Community Service Chair for UVA’s Organization of African Students.
+
+🌍 My Languages 🌍
+
+🇺🇸 English: Native
+
+🇬🇭 Twi: Native
+
+Always open to collaboration on data-driven projects in public health, sustainability, and AI applications!
